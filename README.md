@@ -25,7 +25,7 @@ This is an experimentation project attempted to explore the text summarization t
     ```
 
 2. **Run the notebook:**
-    - Open `NLP_TextSummarization_LongT5.ipynb` in Jupyter or VS Code.
+    - Open `LongT5_summarization.ipynb` in Jupyter or VS Code.
     - Execute cells sequentially to:
         - Load the model and dataset
         - Tokenize and preprocess data
